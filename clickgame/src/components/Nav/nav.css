@@ -1,0 +1,21 @@
+.navbar {
+    background: #000000;
+    min-height: 70px;
+    position: fixed;
+    width: 100%;
+    color: rgb(226, 52, 52);
+   
+  }
+  
+  .navbar ul {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .navbar li {
+    display: inline-block;
+    padding: 26px 0px;
+    width: 33.3%;
+    text-align: center;
+  }
+  

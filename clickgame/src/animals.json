@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "image": "/images/badger.jpg",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "/images/duck.jpg",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "image": "/images/fox.jpg",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "image": "/images/kitty.jpg",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "image": "/images/koala.jpg",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "/images/lemur.jpg",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "image": "/images/meercat.jpg",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "image": "/images/mouse.jpg",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "image": "/images/panda.jpg",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "image": "/images/pug.jpg",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "image": "/images/rabbit.jpg",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "image": "/images/snow.jpg",
+      "clicked": false
+    }
+  ]
+  
